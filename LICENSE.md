@@ -21,5 +21,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 "Change 2_1" 
 "Change 2_2" 
-"Change 2_2" 
-"Change 2_3" 
+"Change 1_3" 
